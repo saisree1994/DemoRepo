@@ -7,6 +7,11 @@ public class LoginPage {
 	{
 		System.out.println("login page method");
 	}
+	
+	public void loginSet()
+	{
+		System.out.println("Login Set Method");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
