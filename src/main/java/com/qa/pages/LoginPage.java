@@ -5,7 +5,7 @@ public class LoginPage {
 	
 	public void loginPage()
 	{
-		System.out.println("login page method");
+		System.out.println("login page method is updated");
 	}
 	
 	public void loginSet()
